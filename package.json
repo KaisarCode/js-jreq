@@ -1,6 +1,6 @@
 {
   "name": "kc-jreq",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "[browser] JSON HTTP Requests.",
   "main": "jreq.js",
   "repository": {
