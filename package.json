@@ -1,0 +1,22 @@
+{
+  "name": "kc-jreq",
+  "version": "1.0.7",
+  "description": "[browser] JSON HTTP Requests.",
+  "main": "jreq.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaisarCode/js-jreq.git"
+  },
+  "keywords": [
+    "http request",
+    "xhr",
+    "post json",
+    "read json"
+  ],
+  "author": "KaisarCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaisarCode/js-jreq/issues"
+  },
+  "homepage": "https://github.com/KaisarCode/js-jreq"
+}
